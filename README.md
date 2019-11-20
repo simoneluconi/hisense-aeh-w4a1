@@ -11,6 +11,10 @@ I tried to use ad Arduino with a RS485-Serial adapter but for now i got no resul
 
 ## Info
 
+### Control che AC
+- [This python library from @bannhead](https://github.com/bannhead/pyaehw4a1)
+- Some discussions [here](https://github.com/deiger/AirCon/issues/1) or [here](https://community.home-assistant.io/t/working-on-integration-for-hisense-aeh-w4a1-module/146243)
+
 ### Idelan
 - **Brand**: Idelan
 - **Model**: DL3036A
